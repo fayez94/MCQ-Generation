@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+Which machine learning algorithm can be utilized to compress data by grouping similar data points into clusters?,a: Linear Regression | b: K-means Clustering | c: Decision Trees | d: Support Vector Machines,b
+What is the connection between machine learning and compression?,a: They are unrelated concepts | b: Machine learning cannot be used for data compression | c: An optimal compressor can be used for prediction | d: Compression algorithms do not map strings into implicit feature space vectors,c
+What is the purpose of data compression?,a: To increase the size of data files | b: To slow down data transmission | c: To reduce the size of data files | d: To complicate data storage,c
+Which software can perform AI-powered image compression?,a: Microsoft Word | b: Adobe Photoshop | c: OpenCV | d: Google Chrome,c
+What is the role of large language models (LLMs) in data compression?,a: They have no impact on data compression | b: LLMs are not efficient lossless data compressors | c: LLMs can compress data by grouping similar data points into clusters | d: LLMs are efficient lossless data compressors on some data sets,d
